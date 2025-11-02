@@ -1,13 +1,49 @@
 
 # 💫  Hi I am <>Raghu Masula</>:
-- A passionate Full Stack Web Developer<br>.
--🔭 I’m currently working with MongoDB, ExpressJS, ReactJS, NodeJS.<br>- 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.<br>- 👯 I’m looking to collaborate with people with Amazing Ideas.<br>- 🌱 I’m currently learning MERN Stack & building Projects in public.<br>- ⚡ Fun fact: I love connecting & socializing with new people.
+
+**Full-Stack (Java/Spring) & AEM Developer** passionate about building scalable web applications, reusable UI components, and enterprise-grade digital experiences.
+
+- 💼 Currently working as a **Software Engineer (AEM & Java)** building enterprise web platforms.
+- 💻 Hands-on experience in **Java, Spring Boot, JDBC, SQL, JavaScript, HTML, CSS**.
+- 🧩 Skilled in crafting **AEM components, Sling Servlets, OSGi services**, Dispatcher configs, and Edge Delivery Services (EDS).
+- 🚀 Exploring and strengthening my **full-stack development** skillset using Spring Boot + modern UI development.
+- 🤝 Open to collaborating on impactful full-stack or cloud-based web solutions.
+- 📚 Always learning and sharing new concepts, clean code practices, and architecture thinking.
+- ⚡ Fun fact: I love connecting, networking, and learning from inspiring tech communities!
 
 
 ## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/solo_soul_raghu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghu-masula-074797141) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/masula_raghu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCGfGp5FAwOnPV1PcGNRfxyA)<!-- [![GMAIL](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=gmail&logoColor=white)](masularaghu30@gmail.com) <br> --> <a href="mailto:masularagh30@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a> <br> <a href = "https://www.dropbox.com/s/e0cjdivxdopz4er/Raghu-Resume%20%281%29.pdf?dl=0">𝐑𝐞𝐬𝐮𝐦𝐞 </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghu-masula-074797141)
+<a href="mailto:masularagh30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br> <a href = "https://www.dropbox.com/scl/fi/iy6cauwr76jerqw8xgxrc/RaghuMasula_Full-Stack_Resume.pdf?rlkey=sl3ql1ioqojquo0k53amrrpkm&st=s9bty86q&dl=0">𝐑𝐞𝐬𝐮𝐦𝐞 </a>
+
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge)
+
+### 🔹 Adobe Experience Manager (AEM)
+![AEM](https://img.shields.io/badge/AEM-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+HTL/Sightly • Sling Models • Sling Servlets • OSGi • Dispatcher Caching • Content Fragments • MSM • AEMaaCS • Edge Delivery Services
+
+### 🔹 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+### 🔹 Databases & Tools
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Raghu-Masula&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raghu-Masula&theme=radical&hide_border=false)<br/>
